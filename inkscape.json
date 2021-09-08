@@ -1,0 +1,25 @@
+{
+    "id": 92839891,
+    "user_and_repo": "inkscape/inkscape",
+    "url": "https://gitlab.com/inkscape/inkscape/-/merge_requests/2911",
+    "state": "merged",      <----- merged state
+    "description": "",
+    "created_at": "2021-03-20T10:07:46.603Z",
+    "author_username": "TomasMarny",
+    "author_name": "Tomáš Marný",
+    "author_url": "https://gitlab.com/TomasMarny",
+    "source_branch": "TomasMarny-master-patch-01819",
+    "sha": "6bf1d663dd5c1e0502c2739169c32f530d30c9b1",
+    "code_review_outcome": "merged", <----- merged outcome
+    "merged_by_username": None,
+    "merged_by_name": None,   <----- Unknown name
+    "merged_by_url": None,    <----- Unknown profile
+    "merged_at": None,        <----- Unknown merged date
+    "merge_commit_sha": None,  <----- Unknown merge SHA?
+    "target_branch": "master",
+    "target_base_repo": "inkscape/inkscape",
+    "upvotes": 0,
+    "downvotes": 0,
+    "total_comments": 0,
+    "approvers": [],
+}
