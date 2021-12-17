@@ -1,0 +1,36 @@
+ettings = Automatic
+- generation of 5 reports if triggered manually
+- no data > no report
+	* no employee > 5 reports are not generated
+	* no application authorization > no Access Approval report
+	* no account revocation > no Employee Termination report
+- has employees and application access but evidence is not selected > report is not generated
+	* Access Review
+	* Access Revocation
+	* Access Authorization
+	* Employee Population
+- has employees and application access and evidence is selected > report is generaged if not empty
+	* Access Review
+	* Access Revocation
+	* Access Authorization
+	* Employee Population
+- no report is generated if 'Automatic' is off
+
+
+Settings = Manual
+- generation of 5 reports
+- no data > no report
+	* no employee > 5 reports are not generated
+	* no application authorization > no Access Approval report
+	* no account revocation > no Employee Termination report
+- has employees and application access but evidence is not selected > report is not generated
+	* Access Review
+	* Access Revocation
+	* Access Authorization
+	* Employee Population
+- has employees and application access and evidence is selected > report is generaged if not empty
+	* Access Review
+	* Access Revocation
+	* Access Authorization
+	* Employee Population
+	
