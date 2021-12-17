@@ -1,0 +1,43 @@
+Verify integration can be installed / uninstalled/ reinstalled successfully
+Verify Credentials Setup modal
+Verify authentication with
+	- valid credentials and successful toast message
+	- invalid credentials and error toast message
+Verify Account List paage elements
+	- logo, integration name, desciption
+	- text link  opens the Zendesk article
+	- page has no accounts
+	- page has multiple accounts
+Verify Create Account modal
+	- mandatory and optional fields
+	- field length
+	- error message if mandatory field is empty or text exceeds field length
+Verify accounts can be created/ edited/ deleted successfully
+Verify account link - opens Account Details page
+Verify Account Details page element
+	- logo, integration name, desciption
+	- text link  opens the Zendesk article
+	- sidecards
+	- page has no services
+	- page has multiple services
+Verify Configure Services modal
+	- lists all services of the integration
+Verify service creation of each service
+Verify service can be edited/ deleted successfully
+Verify collector can be added and edited with different options
+	- collection interval
+	- evidence task
+Verify Filter Services:  by Product/ Service Type/ Integration Health
+Verify Integration can be enabled and disabled
+Verify Synchronization
+	- Sync All
+	- Sync a single service
+Verify Health Status after
+	- service sync
+	- enabling/ disabling integration
+Verify Evidence report of each service against source
+Verify Alerts
+	- generation
+	- auto remediation
+Verify Reference and Navigation of the integration
+	- Integration name & logo displayed on Onboarding Setup, Automation Setup, Integrations, Products pages
