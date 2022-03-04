@@ -1,0 +1,10 @@
+{
+    "collection_interval": "month",
+    "projects" : [
+        {
+        "project_name": "first-project",
+        "project_id": "8ae46b8d-a65a-477d-a866-6059d6400c26"
+        }
+    ],
+    "org_evidence": {{performanceLogsEvidenceId}}
+}
