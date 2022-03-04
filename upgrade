@@ -1,0 +1,344 @@
+{
+    "id": {{orgId}},
+    "__entity_role__": null,
+    "__entity_type__": "organization",
+    "__permissions__": [
+        "org:view_logs",
+        "org:manage_users",
+        "org:manage_org_roles",
+        "org:login_org",
+        "org:instantiate_licensed_control",
+        "org:manage_vm_vendors",
+        "org:export_controls",
+        "org:create_okta_integration",
+        "org:manage_awareness_training",
+        "org:create_custom_control",
+        "org:manage_integrations",
+        "org:collect_risk_assessment_evidence",
+        "org:manage_org_scope",
+        "org:view_sap",
+        "org:edit_billing",
+        "org:create_org_evidence",
+        "org:create_custom_evidence_integration",
+        "org:access_dashboard",
+        "org:new_audit_ui",
+        "org:create_github_integration",
+        "org:manage_rfps",
+        "org:upload_user_content",
+        "org:create_azure_integration",
+        "org:create_asset",
+        "org:create_audit_project",
+        "org:manage_jira",
+        "org:create_application",
+        "org:create_sap_document",
+        "org:export_vm_vendors",
+        "org:create_vm_vendor",
+        "org:create_employee",
+        "org:manage_auto_answer_prefs",
+        "org:manage_content",
+        "org:create_gitlab_integration",
+        "org:manage_group_members",
+        "org:create_certn_integration",
+        "org:import_controls_with_evidence",
+        "org:trigger_awareness_training_evidence_collection",
+        "org:create_azure_active_directory_integration",
+        "org:manage_incident",
+        "org:extend_license",
+        "org:view_org_onboarding_todos",
+        "org:manage_risk_assessments",
+        "org:access_library",
+        "org:create_bitbucket_integration",
+        "org:set_logo",
+        "org:view_scope_upgrade_marketing",
+        "org:remind_all",
+        "org:create_rippling_integration",
+        "org:manage_importing",
+        "org:manage_audit_projects",
+        "org:create_gsuite_population_integration",
+        "org:create_gcp_integration",
+        "org:trigger_obob_evidence_collection",
+        "org:create_cobalt_integration",
+        "org:set_policy_review_date",
+        "org:view_guidance",
+        "org:edit_license_preset",
+        "org:edit_license_features",
+        "org:manage_saml",
+        "org:manage_risk_survey",
+        "org:view_mentions",
+        "org:manage_policies",
+        "org:debug_notifications",
+        "org:create_azure_devops_integration",
+        "org:update_trial",
+        "org:export_policies",
+        "org:view_pendo",
+        "org:create_zendesk_integration",
+        "org:view_infosec_updates",
+        "org:access_support",
+        "org:view_user_tasks",
+        "org:export_policy_history_report",
+        "org:view_evidence_extension",
+        "org:reset_training",
+        "org:manage_tar",
+        "org:collect_vm_evidence",
+        "org:create_custom_policy",
+        "org:manage_access_tracking",
+        "org:create_bamboohr_integration",
+        "org:reset_mfa",
+        "org:create_aws_integration",
+        "org:resend_invite",
+        "org:manage_infosec_programs",
+        "org:create_risk_assessment",
+        "org:create_infosec_program",
+        "org:manage_sap_documents",
+        "org:manage_controls",
+        "org:manage_groups",
+        "org:export_attestation_report",
+        "org:view_changelog",
+        "org:create_group",
+        "org:create_datadog_integration",
+        "org:configure_mfa",
+        "org:suspend",
+        "org:create_org_onboarding",
+        "org:manage_org_evidence",
+        "org:instantiate_licensed_policy",
+        "org:create_org_sar",
+        "org:create_rfp",
+        "org:manage_settings",
+        "org:run_management_command",
+        "org:view_upgrade_marketing",
+        "org:manage_tags",
+        "org:create_user",
+        "org:edit",
+        "org:view_todos",
+        "org:create_jamf_integration",
+        "org:create_attestation_report",
+        "org:create_jumpcloud_integration",
+        "org:set_training_date",
+        "org:audit_access_tracking",
+        "org:create_onetrust_integration"
+    ],
+    "name": "May's Marvellous Mice Again",
+    "address": "",
+    "city": "",
+    "state": "",
+    "postal": "",
+    "country": "",
+    "phone": "",
+    "show_na_autoanswer": true,
+    "license_updated_at": "2022-02-16T19:14:08.349326Z",
+    "license_expired_at": "2022-06-17T20:34:15.439000Z",
+    "status": "active",
+    "created": "2021-06-17T20:34:15.440220Z",
+    "closed": "2022-02-16T19:14:08.349482Z",
+    "trial": false,
+    "currency": "USD",
+    "domain": "",
+    "hubspot_client_id": "",
+    "salesforce_id": "",
+    "feature_flags": {
+        "vm": {
+            "enabled": true,
+            "projects": 25
+        },
+        "aws": {
+            "enabled": true
+        },
+                "digital_ocean": {
+            "enabled": true
+        },
+        "gcp": {
+            "enabled": true
+        },
+        "ram": {
+            "enabled": true,
+            "premium": false
+        },
+        "rfp": {
+            "enabled": true,
+            "projects": 25
+        },
+        "soa": {
+            "export": false,
+            "enabled": false
+        },
+        "tar": {
+            "export": true,
+            "enabled": true
+        },
+        "isms": {
+            "export": false,
+            "enabled": false
+        },
+        "jamf": {
+            "enabled": true
+        },
+        "jira": {
+            "enabled": true
+        },
+        "okta": {
+            "enabled": true
+        },
+        "saml": {
+            "enabled": true
+        },
+        "user": {
+            "admins": true,
+            "enabled": true,
+            "custom_roles": false
+        },
+        "audit": {
+            "new_ui": true,
+            "enabled": true,
+            "projects": true,
+            "findings": false
+        },
+        "azure": {
+            "enabled": true
+        },
+        "certn": {
+            "enabled": true
+        },
+        "scope": {
+            "teams": false,
+            "scopes": 1,
+            "enabled": true
+        },
+        "cobalt": {
+            "enabled": true
+        },
+        "github": {
+            "enabled": true
+        },
+        "gitlab": {
+            "enabled": true
+        },
+        "gsuite": {
+            "enabled": true
+        },
+        "intune": {
+            "enabled": false
+        },
+        "datadog": {
+            "enabled": true
+        },
+        "zendesk": {
+            "enabled": true
+        },
+        "bamboohr": {
+            "enabled": true
+        },
+        "controls": {
+            "custom": true,
+            "export": true,
+            "enabled": true
+        },
+        "evidence": {
+            "export": true,
+            "enabled": true
+        },
+        "guidance": {
+            "enabled": true
+        },
+        "incident": {
+            "enabled": true
+        },
+        "onetrust": {
+            "enabled": true
+        },
+        "policies": {
+            "custom": true,
+            "export": true,
+            "enabled": true
+        },
+        "rippling": {
+            "enabled": true
+        },
+        "training": {
+            "enabled": true
+        },
+        "bitbucket": {
+            "enabled": true
+        },
+        "jumpcloud": {
+            "enabled": true
+        },
+        "procedures": {
+            "custom": false,
+            "export": false,
+            "enabled": false
+        },
+        "azure_devops": {
+            "enabled": true
+        },
+        "access_tracking": {
+            "enabled": true
+        },
+        "custom_evidence": {
+            "enabled": true
+        },
+        "azure_active_directory": {
+            "enabled": true
+        },
+        "microsoft_teams": {
+            "enabled": false
+        }
+    },
+    "nearing_expiry": false,
+    "mfa_required": false,
+    "timezone": "US/Eastern",
+    "calendar_start_month": 1,
+    "auto_implement_controls": true,
+    "terms_accepted_by_id": 35062,
+    "terms_accepted_at": "2021-07-15T19:16:28.268958Z",
+    "sqr_show_unused_library_controls": true,
+    "sqr_show_golden_answers": true,
+    "sqr_show_policies": true,
+    "sqr_show_controls": true,
+    "sqr_show_previous_answers": true,
+    "policy_review_date": null,
+    "remind_members_when_training_expired": true,
+    "training_reset_date": null,
+    "attachment_id": null,
+    "frameworks": [
+        {
+            "id": 68,
+            "__entity_role__": null,
+            "__entity_type__": "framework",
+            "__permissions__": [
+                "framework:export",
+                "framework:create_member",
+                "framework:unpublish",
+                "framework:update"
+            ],
+            "name": "TBL Essentials",
+            "description": "TBL Essentials is a framework designed for businesses that want to begin with the foundational policies and controls.",
+            "status": "published",
+            "soc2_filtering_enabled": false,
+            "isms_checklist_enabled": false,
+            "attestation_type": "essentials",
+            "icon": "default",
+            "audit_framework_group": "none",
+            "org_id": 1
+        },
+        {
+            "id": 64,
+            "__entity_role__": null,
+            "__entity_type__": "framework",
+            "__permissions__": [
+                "framework:export",
+                "framework:create_member",
+                "framework:unpublish",
+                "framework:update"
+            ],
+            "name": "ISO 27001:2013",
+            "description": "ISO 27001 is an international standard describing how organizations can manage information security, and provides a methodology for the implementation of an ISMS",
+            "status": "published",
+            "soc2_filtering_enabled": false,
+            "isms_checklist_enabled": true,
+            "attestation_type": "none",
+            "icon": "iso",
+            "audit_framework_group": "none",
+            "org_id": 1
+        }
+    ]
+}
