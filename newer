@@ -1,0 +1,4 @@
+let response = pm.response.json();
+pm.globals.set("respository0", response[0]);
+pm.globals.set("respository1", response[1]);
+pm.globals.set("respository2", response[2]);
