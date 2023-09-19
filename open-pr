@@ -1,0 +1,33 @@
+ {
+        "url": "https://api.github.com/repos/maylam36/test-git-hub/pulls/22",
+        "id": 1441431172,
+        "node_id": "PR_kwDOF-zNCs5V6n6E",
+        "html_url": "https://github.com/maylam36/test-git-hub/pull/22",
+        "diff_url": "https://github.com/maylam36/test-git-hub/pull/22.diff",
+        "patch_url": "https://github.com/maylam36/test-git-hub/pull/22.patch",
+        "issue_url": "https://api.github.com/repos/maylam36/test-git-hub/issues/22",
+        "number": 22,
+        "state": "closed",
+        "locked": false,
+        "title": "Merge pull request #20 from maylam36/main",
+        "user": {
+            "login": "maylam36",
+            "id": 86127202,
+            "node_id": "MDQ6VXNlcjg2MTI3MjAy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/86127202?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/maylam36",
+            "html_url": "https://github.com/maylam36",
+            "followers_url": "https://api.github.com/users/maylam36/followers",
+            "following_url": "https://api.github.com/users/maylam36/following{/other_user}",
+            "gists_url": "https://api.github.com/users/maylam36/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/maylam36/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/maylam36/subscriptions",
+            "organizations_url": "https://api.github.com/users/maylam36/orgs",
+            "repos_url": "https://api.github.com/users/maylam36/repos",
+            "events_url": "https://api.github.com/users/maylam36/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/maylam36/received_events",
+            "type": "User",
+            "site_admin": false
+        }
+}
